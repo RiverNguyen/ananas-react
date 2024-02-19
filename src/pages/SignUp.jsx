@@ -116,7 +116,7 @@ const SignUp = () => {
                                                 </span>
                                             )}
                                             <a href="#">Quên mật khẩu ?</a>
-                                            <button>Đăng nhập</button>
+                                            <button>Đăng Ký</button>
                                         </form>
                                     </div>
                                     <div className="toggle-container">

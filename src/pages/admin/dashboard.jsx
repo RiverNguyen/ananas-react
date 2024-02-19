@@ -34,7 +34,7 @@ const DashboardPage = ({ products }) => {
                                 {
                                     label: "VND",
                                     data: [totalShoesMoney, totalBagsMoney],
-                                    backgroundColor: ["#3e95cd", "#8e5ea2"],
+                                    backgroundColor: ["#d62828", "#f77f00"],
                                     borderRadius: 10,
                                 },
                             ],
@@ -51,7 +51,7 @@ const DashboardPage = ({ products }) => {
                                 {
                                     label: "Số lượng",
                                     data: [totalShoes, totalBags],
-                                    backgroundColor: ["#3e95cd", "#8e5ea2"],
+                                    backgroundColor: ["#d62828", "#f77f00"],
                                     borderRadius: 10,
                                 },
                             ],

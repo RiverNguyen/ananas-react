@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Header = () => {
     return (
         <header
-            className="navbar sticky-top bg-dark flex-md-nowrap p-0 shadow"
+            className="navbar sticky-top bg-dark flex-md-nowrap p-0 shadow "
             data-bs-theme="dark"
         >
             <Link

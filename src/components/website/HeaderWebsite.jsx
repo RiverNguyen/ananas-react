@@ -8,7 +8,7 @@ const HeaderWebsite = () => {
     return (
         <div>
             <HeaderMenu />
-            <header className="d-flex flex-wrap align-items-end justify-content-evenly py-3 border-bottom">
+            <header className="d-flex flex-wrap align-items-end justify-content-evenly py-3 border-bottom ">
                 <div className="col-md-1 mb-2 mb-md-0">
                     <Link
                         to={"/"}

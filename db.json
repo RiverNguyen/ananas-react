@@ -98,6 +98,19 @@
       "description": "Monk's Robe",
       "id": 9,
       "category": "1"
+    },
+    {
+      "category": "1",
+      "name": "123",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708355721/assignment-ecma/obkuiugvfmojmxcaqmfj.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708355722/assignment-ecma/taqxbdfna9e8i3wj5gxb.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708355723/assignment-ecma/qsfryliukjmbf6wpvu1p.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708355724/assignment-ecma/jthdcsgjeal0mqccjhb6.jpg"
+      ],
+      "price": "123",
+      "description": "123",
+      "id": 10
     }
   ],
   "menus": [
@@ -122,10 +135,10 @@
   ],
   "users": [
     {
-      "email": "ngiang028@gmail.com",
-      "password": "$2a$10$slkch3k0knFKy021F.pi3.1eFCHWMznUE4rz4q0SY3FANvdtkW0R.",
-      "name": "giang",
-      "id": 4
+      "email": "ngiang1309@gmail.com",
+      "password": "$2a$10$1o7BHqQSNHjE5ReAohSI4On/JPLAeY799LJufodKgquDTaD93P4hC",
+      "name": "Nguyễn Đình Giang",
+      "id": 1
     }
   ]
 }

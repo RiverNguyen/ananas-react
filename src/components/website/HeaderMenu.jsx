@@ -48,7 +48,7 @@ const HeaderMenu = () => {
                         <li>
                             <Link to="/admin">
                                 <i
-                                    class="fa-solid fa-user-secret"
+                                    className="fa-solid fa-user-secret"
                                     style={{ color: "#fff" }}
                                 ></i>
                                 <span>Admin</span>
